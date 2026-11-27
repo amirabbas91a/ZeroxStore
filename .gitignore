@@ -1,0 +1,5 @@
+*.exfat
+PadrinoStore.exfat
+ZeroxStore.exfat
+.DS_Store
+Thumbs.db
